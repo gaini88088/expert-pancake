@@ -1,0 +1,14 @@
+# No external dependencies required for basic functionality
+# All modules use Python standard library only
+
+# Optional dependencies for extended functionality:
+# If you want to add real email processing:
+# - imaplib (built-in)
+# - smtplib (built-in)
+# - email (built-in)
+
+# If you want to add encryption:
+# cryptography>=41.0.0
+
+# If you want to add database support:
+# sqlite3 (built-in)
