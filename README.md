@@ -2,6 +2,8 @@
 
 A collaborative AI system that brings multiple AI agents together to handle email processing and secure online access management.
 
+**Note:** This is a demonstration/educational system designed to showcase AI collaboration concepts. For production use, implement proper security measures including real authentication, secure password hashing (bcrypt/Argon2), and actual 2FA validation.
+
 ## Overview
 
 This system demonstrates how multiple AI components can work together to:

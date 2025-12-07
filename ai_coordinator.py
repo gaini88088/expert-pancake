@@ -2,6 +2,9 @@
 """
 AI Coordinator - Brings multiple AI components together for collaborative work
 Orchestrates email handling and security management AI agents
+
+NOTE: This is a demonstration implementation with hardcoded credentials for testing.
+In production, use environment variables or secure credential management systems.
 """
 
 import json

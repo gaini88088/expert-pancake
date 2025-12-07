@@ -2,6 +2,12 @@
 """
 Security Manager AI - Handles authentication and secure online access
 Manages access control, authentication, and security protocols
+
+NOTE: This is a demonstration implementation. For production use:
+- Use proper password hashing (bcrypt, Argon2, scrypt) instead of SHA-256
+- Implement actual credential validation against a secure database
+- Use real 2FA code generation and validation (TOTP/HOTP)
+- Never use hardcoded passwords or bypass authentication
 """
 
 import json
