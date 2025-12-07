@@ -77,13 +77,13 @@ Other devices will:
 **For iPhone/iPad with Face ID:**
 ```
 Settings → Face ID & Passcode → Turn On Face ID
-→ Select "Use Face ID for [App Name]"
+→ Select "Use Face ID for Expert Pancake"
 ```
 
 **For Devices with Touch ID:**
 ```
 Settings → Touch ID & Passcode → Turn On Touch ID
-→ Select "Use Touch ID for [App Name]"
+→ Select "Use Touch ID for Expert Pancake"
 ```
 
 ### 2. Enable Two-Factor Authentication
@@ -200,12 +200,12 @@ Each session shows:
 
 ## Need Help?
 
-- 📧 Email: security@expert-pancake.example.com
+- 📧 Email: Contact the repository owner through GitHub
 - 📚 Documentation: [SECURITY.md](SECURITY.md)
 - 🐛 Report Issues: Open an issue in this repository
 - ❓ FAQ: Check the project wiki
 
 ---
 
-**Last Updated**: December 2025  
+**Last Updated**: December 2025 (Template)  
 **Applies To**: All Apple devices (iPhone, iPad, Mac) running iOS 15+, iPadOS 15+, or macOS Monterey+

@@ -110,4 +110,4 @@ Your data privacy and security are our top priorities.
 
 ## Updates to This Policy
 
-This security policy is reviewed and updated quarterly. Last updated: December 2025.
+This security policy is reviewed and updated quarterly. Last updated: December 2025 (Template)
